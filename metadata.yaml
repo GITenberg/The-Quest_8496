@@ -1,0 +1,38 @@
+_repo: The-Quest_8496
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Goldberg, Isaac
+    birthdate: 1887
+    deathdate: 1938
+    gutenberg_agent_id: '4791'
+    url: http://www.gutenberg.org/2009/agents/4791
+    wikipedia: http://en.wikipedia.org/wiki/Isaac_Goldberg
+creator:
+  author:
+    agent_name: Baroja, Pío
+    aliases:
+    - Baroja, Pio
+    - Nessi, Pío Baroja y
+    birthdate: 1872
+    deathdate: 1956
+    gutenberg_agent_id: '2669'
+    url: http://www.gutenberg.org/2009/agents/2669
+    wikipedia:
+    - http://en.wikipedia.org/wiki/P%C3%ADo_Baroja
+    - http://es.wikipedia.org/wiki/Pío_Baroja
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8496'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: The Quest
+url: http://www.gutenberg.org/ebooks/8496
